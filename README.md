@@ -28,7 +28,7 @@ A professional, interactive CLI toolkit for managing QEMU/KVM virtual machines. 
 1. Download the script:
 
 ```bash
-git clone https://Github.com/QEMU=CLI_tool.git
+git clone https://Github.com/LoQiseaking69/QEMU-CLI_tool.git
 
 chmod +x ~/qemu-set.sh
 ```
